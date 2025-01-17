@@ -1,6 +1,30 @@
-# projetos_python
+# Desafios Python 🐍
 
-# Projeto 1
+Bem-vindo ao repositório de **Desafios Python**! Aqui estão armazenados os exercícios que pratico para melhorar minhas habilidades em programação Python. Todos os desafios são fornecidos pelo [ChatGPT](https://openai.com/chatgpt), com foco no aprendizado prático e no desenvolvimento de soluções criativas e eficientes.
 
-#Extrator de Título de Página Web
-Este projeto é um simples script Python que extrai o título (<title>) de uma página web a partir de uma URL fornecida pelo usuário. Ele utiliza a biblioteca requests para realizar requisições HTTP e manipula o HTML recebido para localizar e exibir o título da página.
+## Sobre os Desafios
+
+Os exercícios cobrem uma variedade de tópicos, incluindo:
+
+- Sintaxe básica e estrutura de controle
+- Manipulação de strings
+- Estruturas de dados (listas, dicionários, tuplas, conjuntos)
+- Funções e escopos
+- Manipulação de arquivos
+- Algoritmos e lógica de programação
+- APIs e automação
+- E muito mais!
+
+Cada desafio é projetado para abordar um conceito ou habilidade específica, com base na minha jornada de aprendizado.
+
+## Estrutura do Repositório
+
+- **/challenges**: Contém os arquivos Python (.py) organizados por tópico e nível de dificuldade.
+- **/solutions**: Soluções propostas para cada desafio, incluindo explicações e insights.
+- **README.md**: Este arquivo com detalhes do repositório.
+
+## Como Utilizar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/desafios-python.git
